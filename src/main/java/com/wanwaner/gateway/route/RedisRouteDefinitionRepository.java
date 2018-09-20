@@ -1,4 +1,4 @@
-package com.haier.gateway.route;
+package com.wanwaner.gateway.route;
 
 import com.alibaba.fastjson.JSON;
 import java.util.ArrayList;

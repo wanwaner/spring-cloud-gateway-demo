@@ -1,4 +1,4 @@
-package com.haier.gateway.route;
+package com.wanwaner.gateway.route;
 
 import org.springframework.cloud.gateway.event.RefreshRoutesEvent;
 import org.springframework.context.ApplicationEventPublisher;

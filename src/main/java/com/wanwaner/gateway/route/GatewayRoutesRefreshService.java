@@ -1,4 +1,4 @@
-package com.haier.gateway.route;
+package com.wanwaner.gateway.route;
 
 import java.net.URI;
 import java.util.Collections;

@@ -1,6 +1,6 @@
 
 
-package com.haier.gateway.config;
+package com.wanwaner.gateway.config;
 
 import java.util.Objects;
 import org.springframework.cloud.gateway.filter.ratelimit.KeyResolver;

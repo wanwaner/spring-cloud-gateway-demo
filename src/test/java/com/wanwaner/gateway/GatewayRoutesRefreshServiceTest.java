@@ -1,6 +1,6 @@
-package com.haier.gateway;
+package com.wanwaner.gateway;
 
-import com.haier.gateway.route.GatewayRoutesRefreshService;
+import com.wanwaner.gateway.route.GatewayRoutesRefreshService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
