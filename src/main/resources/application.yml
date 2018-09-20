@@ -1,0 +1,18 @@
+# SPRING BOOT PROPERTIES
+spring:
+
+  # IDENTITY
+  application:
+    name: gateway
+
+  # PROFILES
+  profiles:
+    active: dev
+
+  # JMX
+  jmx:
+    enabled: false
+
+# EMBEDDED SERVER CONFIGURATION
+server:
+  port: 8080
